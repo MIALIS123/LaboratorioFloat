@@ -1,0 +1,12 @@
+*{ 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-family: sans-serif;
+}
+header. footer {
+    background-color: rgb(100, 138, 110);
+}
